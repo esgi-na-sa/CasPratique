@@ -16,3 +16,5 @@ Par groupes de 3 :
   - Sauvegarder la modification dans l’historique
   - Publier la branche sur le repo distant
 - Pour chacun des 3 : télécharger les deux autres branches de vos collaborateurs
+- Mettre en place une pull request entre la branche de l'élève 1 et de l'élève deux
+- Idem entre l'élève 1 et main
